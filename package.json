@@ -1,0 +1,21 @@
+{
+  "name": "react-lazy-load-image",
+  "version": "1.0.0",
+  "description": "change your name",
+  "type": "module",
+  "exports": "./esm/index.js",
+  "types": "./esm/index.d.ts",
+  "scripts": {
+    "build": "rm -rf esm && ntsc"
+  },
+  "dependencies": {
+    "ahooks": "^3.7.2",
+    "classnames": "^2.3.2"
+  },
+  "author": "maoxiaoke",
+  "license": "ISC",
+  "devDependencies": {
+    "@nzha/ntsc": "*",
+    "react": "^18.2.0"
+  }
+}
